@@ -48,3 +48,4 @@
 **Kort om Github & Markdown**
 
 
+![alt text](<donkey kong.jpg>)
