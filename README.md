@@ -45,6 +45,8 @@
 - **git reset**: Tar bort en fil från stage men behåller eventuella förändringar i working directory, ex: *git reset DonkeyKong.txt*.
 - **git mv**: Byter en fils path och stagear bytet, ex: *git mv ImportantStuff UnimportantStuff*.
 - **git rm**: Raderar en fil och stagear det, ex: *rm DonkeyKong.txt*.
+
+###### Källa: <https://education.github.com/git-cheat-sheet-education.pdf>
 ---
 ## Github & Markdown
 
@@ -54,9 +56,11 @@
 
 GitHub kan beskrivas som ett socialt nätverk för utvecklare där man istället för bild eller video delar kod. Detta innebär att man kan hämta andras kod och använda den. Det kan vara ett bra sätt att komma igång med ett eget projekt, att bara experimentera eller för att bidra till någon annans projekt. 
 
+###### Källa: <https://kazemmdev.medium.com/the-ultimate-guide-to-github-everything-you-need-to-know-310b6173abb2>
+
 **Markdown**
 
-Markdown är en lättläst och lättanvänt markeringsspråk (inte ett programmeringsspråk). Det innebär också att det enkelt kan konverteras om till andra format, bl.a. PDF, epub, HTML o.s.v. 
+Markdown är en lättläst och lättanvänt markeringsspråk (inte ett programmeringsspråk). Det innebär också att det enkelt kan konverteras om till andra format, bl.a. PDF, epub, HTML o.s.v.
 
 ###### Källa: <https://kazemmdev.medium.com/the-ultimate-guide-to-github-everything-you-need-to-know-310b6173abb2>
 
