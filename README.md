@@ -43,14 +43,13 @@
 | `git branch` | Branch | Visar alla branches, * markerar nuvarande branch | - |
 | `git branch branchName` | Branch | Skapar ny branch | *git branch myBranch* |
 | `git switch` | Switch | Byter branch | *git switch myBranch*  |
-|
+| `git push` | Push | Laddar upp nuvarande branch commits till host | - |
 
 ### Några andra kommandon
 
 | Kommandon | Namn | Förklaring | Exempel |
 | --------- | ---- | ---------- | ------- |
 | `git reset`  | Reset | Tar bort fil från stage men behåller eventuella förändringar i working directory | *git reset fileName* |
-| `git mv` | Move | Byter en fils path och stagear bytet | *git mv myDirectory1 myDirectory2*  |
 | `git rm` | Remove | Raderar fil och stagear det | *rm fileName*  |
 
 ###### Källa: <https://education.github.com/git-cheat-sheet-education.pdf>
